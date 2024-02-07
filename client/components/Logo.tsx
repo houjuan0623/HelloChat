@@ -1,5 +1,5 @@
 import { Box } from '@rocket.chat/fuselage';
-import { RocketChatLogo } from '@hello.chat/logo';
+import { RocketChatLogo } from '@rocket.chat/logo';
 import React, { ComponentProps, ReactElement, useState } from 'react';
 
 type LogoProps = Omit<ComponentProps<typeof Box>, 'src'> & {
