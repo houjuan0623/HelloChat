@@ -187,7 +187,7 @@
 		"@rocket.chat/fuselage-tokens": "~0.31.9",
 		"@rocket.chat/fuselage-ui-kit": "~0.31.9",
 		"@rocket.chat/icons": "~0.31.9",
-		"@rocket.chat/logo": "~0.31.9",
+		"@rocket.chat/logo": "~0.31.29",
 		"@rocket.chat/memo": "~0.31.9",
 		"@rocket.chat/message-parser": "~0.31.9",
 		"@rocket.chat/mp3-encoder": "^0.24.0",
